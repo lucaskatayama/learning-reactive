@@ -1,0 +1,7 @@
+[
+  {
+    "name" : "John Doe 1",
+    "age" : 42,
+    "_class": "com.lucaskatayama.reactive.domain.Person"
+  }
+]
